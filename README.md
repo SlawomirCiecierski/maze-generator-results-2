@@ -5,9 +5,11 @@ The name of the file includes the difficulty of the maze (EASY, MEDIUM, HARD, EX
 The repository will usually contain EXTREME labyrinths, because generating them takes a long time. On average, the correct labyrinth is generated once in a million attempts.
 
 A new difficulty level has been modified: 
+
     EASY(0.2F),
     
     MEDIUM(0.3F), 
+    
     HARD(0.4F),
     
     EXTREME(0.44F),
